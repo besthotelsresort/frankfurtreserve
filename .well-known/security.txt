@@ -1,0 +1,4 @@
+Contact: mailto:security@frankfurtreserve.example
+Expires: 2027-05-28T13:00:54.022Z
+Preferred-Languages: en, de, fr
+Canonical: https://example.com/.well-known/security.txt
